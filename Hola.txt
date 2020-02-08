@@ -1,1 +1,4 @@
 estoy estudiando comandos en Git 
+estamos probando estos comandos 
+sabado 08 de febrero 2020
+para subirlos al repositorio en linea 
